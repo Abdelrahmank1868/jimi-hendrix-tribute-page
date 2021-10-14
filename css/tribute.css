@@ -34,9 +34,14 @@
 }
 #tribute-link {
 color: #CC0000;
-font-weight: bold;
-
+font-weight: bold;  
 }
+
+#image {
+  max-width: 500px;
+  display: block;
+}
+
 #img-caption {font-size: 30px;
 text-align: center;}
 .center {
